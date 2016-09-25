@@ -59,6 +59,12 @@ front-end:
     level: 4
   - name: Bower
     level: 3
+  - name: React
+    level: 1
+  - name: Redux
+    level: 1
+  - name: Webpack
+    level: 1
 
 back-end:
   - name: Java
