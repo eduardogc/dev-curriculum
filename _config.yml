@@ -42,7 +42,7 @@ front-end:
   - name: Angular
     level: 4
   - name: Vue.js
-    level: 1
+    level: 3
   - name: Bootstrap
     level: 4
   - name: Materialize CSS
@@ -60,11 +60,11 @@ front-end:
   - name: Bower
     level: 3
   - name: React
-    level: 1
+    level: 3
   - name: Redux
-    level: 1
+    level: 3
   - name: Webpack
-    level: 1
+    level: 3
 
 back-end:
   - name: Java
@@ -100,11 +100,11 @@ devops:
   - name: Kubernetes
     level: 1
   - name: Jenkins
-    level: 1
+    level: 2
   - name: Git
     level: 5
   - name: Continuous Integration
-    level: 1
+    level: 2
   - name: Continuous Delivery
     level: 1
 
