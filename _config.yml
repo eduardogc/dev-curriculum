@@ -93,6 +93,8 @@ db:
     level: 3
   - name: SqLite
     level: 3
+  - name: GraphQL
+    level: 1
 
 devops:
   - name: Docker
