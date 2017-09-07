@@ -7,7 +7,7 @@ language: "" # language to set into html tag, default is en
 # User settings
 
 author: Eduardo Gonçalves Costa
-author-title: Full Stack Developer
+author-title: Front End Engineer
 gravatar: 3b2729268c78151e55c08f54d1151e94
 email: eduardogc@outlook.com
 twitter: geceduardo2
@@ -32,25 +32,33 @@ bio: "Brazilian JavaScript developer.
 # If you don't want one of the sections below, leave the variable without any values
 front-end:
   - name: HTML 5
-    level: 4
+    level: 5
   - name: CSS 3
-    level: 4
+    level: 5
   - name: JavaScript
-    level: 4
+    level: 5
   - name: jQuery
     level: 4
+  - name: AngularJS
+    level: 5
   - name: Angular
     level: 4
   - name: Vue.js
+    level: 5
+  - name: React
+    level: 4
+  - name: Flux (all variations)
+    level: 4
+  - name: RxJS (all variations)
     level: 3
   - name: Bootstrap
     level: 4
   - name: Materialize CSS
-    level: 3
+    level: 4
   - name: LESS
     level: 3
   - name: SASS
-    level: 3
+    level: 4
   - name: Stylus
     level: 3
   - name: Gulp
@@ -60,26 +68,30 @@ front-end:
   - name: Bower
     level: 3
   - name: React
-    level: 3
-  - name: Redux
-    level: 3
+    level: 4
   - name: Webpack
-    level: 3
+    level: 4
 
 back-end:
   - name: Java
     level: 3
   - name: Node.js
+    level: 3
+  - name: Clojure
     level: 2
 
 mobile:
   - name: Android
     level: 3
   - name: iOS
-    level: 1
+    level: 2
+  - name: Ionic
+    level: 4
 
 db:
   - name: MySQL
+    level: 3
+  - name: MariaDB
     level: 3
   - name: PostgreSQL
     level: 3
@@ -98,17 +110,17 @@ db:
 
 devops:
   - name: Docker
-    level: 1
+    level: 2
   - name: Kubernetes
     level: 1
   - name: Jenkins
-    level: 2
+    level: 3
   - name: Git
     level: 5
   - name: Continuous Integration
-    level: 2
+    level: 3
   - name: Continuous Delivery
-    level: 1
+    level: 2
 
 methodologies:
   - name: Agile Methodologies
@@ -128,7 +140,7 @@ others:
   - name: Ruby on Rails
     level: 3
   - name: MEAN Stack
-    level: 2
+    level: 4
   - name: VRaptor
     level: 2
   - name: Play Framework
